@@ -49,7 +49,7 @@ const Footer = () => {
                 </div>
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                  We're a software company focused on delivering innovative solutions, crafting custom software to meet your specific needs, and supporting your business's technological advancement and growth.
+                 We're a software company focused on delivering innovative solutions.
                 </p>
                 <div className="flex items-center">
                   <a
