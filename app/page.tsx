@@ -13,13 +13,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "BinaryTech | Home",
-  description: "Welcome to BinaryTech. We provide top-notch software solutions.",
-  image: {
-    url: "https://example.com/your-logo.png",
-    alt: "BinaryTech Logo",
-    width: 1200,
-    height: 630,
-  },
+  description: "Welcome to BinaryTech",
+  // other metadata
 };
 
 export default function Home() {
