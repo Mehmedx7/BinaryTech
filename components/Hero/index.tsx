@@ -20,7 +20,7 @@ const Hero = () => {
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">We&apos;re a software company focused on delivering innovative solutions, crafting custom software to meet your specific needs, and supporting your business&apos;s technological advancement and growth.</p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
-                    href="#"
+                    href="#blog"
                     className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >Our Projects</Link>
                   <Link
