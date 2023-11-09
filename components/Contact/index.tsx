@@ -17,6 +17,7 @@ const Contact = () => {
               <p className="mb-12 text-base font-medium text-body-color">
                 Our support team will get back to you ASAP via email.
               </p>
+
               <form>
                 <div className="-mx-4 flex flex-wrap">
                   <div className="w-full px-4 md:w-1/2">
@@ -29,6 +30,7 @@ const Contact = () => {
                       </label>
                       <input
                         type="text"
+                        name="user_name"
                         placeholder="Enter your name"
                         className="border-stroke dark:text-body-color-dark dark:shadow-two w-full rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:focus:border-primary dark:focus:shadow-none"
                       />
@@ -44,6 +46,7 @@ const Contact = () => {
                       </label>
                       <input
                         type="email"
+                        name="user_email"
                         placeholder="Enter your email"
                         className="border-stroke dark:text-body-color-dark dark:shadow-two w-full rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:focus:border-primary dark:focus:shadow-none"
                       />
@@ -72,6 +75,7 @@ const Contact = () => {
                   </div>
                 </div>
               </form>
+
             </div>
           </div>
           <div className="w-full px-4 lg:w-5/12 xl:w-4/12">
