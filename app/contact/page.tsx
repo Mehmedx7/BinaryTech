@@ -14,7 +14,7 @@ const ContactPage = () => {
     <>
       <Breadcrumb
         pageName="Contact Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="Connect with Binary Tech for inquiries, support, or collaboration. Our team unlocks software solutions tailored to your needs. Your message sparks innovation."
       />
 
       <Contact />
