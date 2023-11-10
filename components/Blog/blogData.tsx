@@ -9,7 +9,7 @@ const blogData: Blog[] = [
     image: "/images/blog/blog-01.jpg",
     author: {
       name: "Mohammed Khan",
-      image: "/images/blog/author-01.png",
+      image: "/images/blog/m.png",
       designation: "Full Stack Developer",
     },
     tags: ["creative"],
