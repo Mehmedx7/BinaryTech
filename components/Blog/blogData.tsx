@@ -12,7 +12,7 @@ const blogData: Blog[] = [
       image: "/images/blog/m.png",
       designation: "Full Stack Developer",
     },
-    tags: ["creative"],
+    tags: ["Web App"],
     publishDate: "2023",
   },
   {
