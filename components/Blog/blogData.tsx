@@ -8,12 +8,12 @@ const blogData: Blog[] = [
       "Full-Stack Web Application With Admin Dashboard And Paytm Payment Gateway, Ready To Use For Business.",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "Mohammed Khan",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "Full Stack Developer",
     },
     tags: ["creative"],
-    publishDate: "2025",
+    publishDate: "2023",
   },
   {
     id: 2,
