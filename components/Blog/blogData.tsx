@@ -6,7 +6,7 @@ const blogData: Blog[] = [
     title: "EV Charging Server/UI (OCPP1.6)",
     paragraph:
       "Full-Stack Web Application With Admin Dashboard And Paytm Payment Gateway, Ready To Use For Business.",
-    image: "/images/blog/blog-01.jpg",
+    image: "/images/blog/ch.png",
     author: {
       name: "Mohammed Khan",
       image: "/images/blog/m.png",
