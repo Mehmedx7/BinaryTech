@@ -121,7 +121,7 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="/blog"
+                      href="#"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Blog
@@ -129,7 +129,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/pricing"
+                      href="#"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Pricing
@@ -137,7 +137,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/about"
+                      href="#"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       About
